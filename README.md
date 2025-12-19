@@ -39,16 +39,21 @@ A web-based Government Scheme Management System developed using **JSP, JDBC, MyS
 5. Run `index.jsp`
 6. 
 ## 🔹 Screenshots
-🔐 Login Page
-/Screenshots/Index Page (Login).png
-🛠️ Admin Dashboard
-/Screenshots/Admin Dashboard.png
-👤 User Dashboard
-/Screenshots/User Dashboard.png
-📝 Apply Scheme Page
-/Screenshots/Apply Scheme.png
-📄 Application Status Page
-/Screenshots/Application Status.png
+
+- 🔐 **Login Page**  
+  👉 [View Screenshot](Screenshots/Index%20Page%20(Login).png)
+
+- 👤 **User Dashboard**  
+  👉 [View Screenshot](Screenshots/User%20Dashboard.png)
+
+- 📝 **Apply Scheme Page**  
+  👉 [View Screenshot](Screenshots/Apply%20Scheme.png)
+
+- 📄 **Application Status Page**  
+  👉 [View Screenshot](Screenshots/Application%20Status.png)
+
+- 🛠️ **Admin Dashboard**  
+  👉 [View Screenshot](Screenshots/Admin%20Dashboard.png)
 
 ## 🔹 Author
 **Gunasekaran (Guna)**
